@@ -1,17 +1,15 @@
 <idea-plugin>
-  <id>some.awesme</id>
-  <name>Dash Progress Bar</name>
-  <version>1.0.2</version>
-  <vendor email="bjhandeland@gmail.com">Bjarne Handeland</vendor>
+  <id>dev.adrianjagielak.better-dash-progress-bar</id>
+  <name>Better Dash Progress Bar</name>
+  <version>1.0.0</version>
+  <vendor email="adrianjagielak@gmail.com">Adrian Jagielak</vendor>
 
   <description><![CDATA[
-      Flutter Dash Progress Bar for IJ based IDEs.
+      A better Dash Progress Bar for JetBrain IDEs.
     ]]></description>
 
   <change-notes><![CDATA[
-      <em>1.0.2 rebuild plugin to work with Android Studio.</em><br>
-      <em>1.0.1 minor change to dash image to make it stand out more.</em><br>
-      <em>1.0.0 first initial release for Flutter Europe.</em><br>
+      <em>1.0.0 Initial release.</em><br>
     ]]>
   </change-notes>
 
